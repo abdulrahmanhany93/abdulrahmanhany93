@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BeDiv</h1>
+<h1 align="center">Hi 👋, I'm Abdul-Raman</h1>
 <h3 align="center">Full Stack Developer | Flutter, ASP.NET, React | 4+ Years of Experience</h3>
 
 - 🔭 I’m currently developing an **Islamic Sessions App** — a cross-platform platform that enables **live video call sessions** for Islamic learning and community engagement.
